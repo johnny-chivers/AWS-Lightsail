@@ -1,0 +1,9 @@
+Step 1
+
+sudo git clone https://github.com/discourse/discourse_docker.git /var/discourse
+cd /var/discourse
+
+
+Step 2 
+
+sudo . /discourse-setup
