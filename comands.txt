@@ -11,4 +11,4 @@ cd /var/discourse
 
 Step 2 
 
-sudo . /discourse-setup
+sudo ./discourse-setup
